@@ -25,7 +25,7 @@ _* Users can add, edit, delete comments to images_
 
 # Project Setup instructions
 1. Ensure that you have the correct versions of Ruby, Rails, and PSQL installed.
-2. Clone the project locally from github (https://github.com/larabjork/rails-bcrypt-flicker.git).
+2. Clone the project locally from github (https://github.com/larabjork/flicker-clone.git).
 3. Install Bundler if you do not already have it by running **gem install bundler** in the terminal.
 4. Run **bundle install** to manage gems; if you make additional changes to the Gemfile, you will need to run this command again.
 5. Run **rake db:create**, which should create two databases (for development and testing).
@@ -39,7 +39,7 @@ If something doesn't display correctly or goes wrong somehow, please contact me 
 No known issues per se, but limited functionality.
 
 # Where to Find This Project
-https://github.com/larabjork/rails-bcrypt-flicker.git
+https://github.com/larabjork/flicker-clone.git
 
 # License
 This software is licensed under the MIT license.
